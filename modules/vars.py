@@ -1,4 +1,4 @@
-api_id = 28829496
-api_hash = "8094341dbe5bd50090de8b12a01d04b8"
-bot_token = "6715326658:AAHVLu_V2HJKquZG4kAPydJDP6G1lATc8lA"
+api_id = 26451206
+api_hash = "32984406271d6f3945bb536671b143a7"
+bot_token = "7471442735:AAGyjSHNOoZMwNlWx1Ohx7Ue1y4I8_v6bvc"
 # Bot Username = "allinone"
